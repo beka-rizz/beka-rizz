@@ -39,10 +39,10 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/bekarys-nurgasym](https://www.linkedin.com/in/bekarys-nurgasym-689256259/](https://www.linkedin.com/in/bekarys-nurgasym-689256259/)" target="_blank">
+  <a href="https://www.linkedin.com/in/bekarys-nurgasym-689256259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/@bkrsngsm" target="_blank">
+  <a href="https://t.me/bkrsngsm" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:bekarysnurgassym@gmail.com" target="_blank">
