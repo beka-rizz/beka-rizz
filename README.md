@@ -13,13 +13,6 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,django,pandas,seaborn,matplotplib,scikit-learn,figma,git,github,postgresql, mongodb" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beka-rizz&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
@@ -46,7 +39,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/bekarys-nurgasym](https://www.linkedin.com/in/bekarys-nurgasym-689256259/" target="_blank">
+  <a href="[https://www.linkedin.com/in/bekarys-nurgasym](https://www.linkedin.com/in/bekarys-nurgasym-689256259/](https://www.linkedin.com/in/bekarys-nurgasym-689256259/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://t.me/@bkrsngsm" target="_blank">
