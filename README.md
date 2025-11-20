@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Bekarys 👋</h1>
-<h3 align="center">💻 Full Stack Developer  |  📊 Data Analyst  |  🚀 Tech Enthusiast</h3>
+<h3 align="center">📊 Data Analyst  |  🚀 Tech Enthusiast</h3>
 
 ---
 
 ### 🧭 About Me  
-- 🎓 1st-year **Software Engineering** student at **Kazakh-British Technical University**  
-- 💡 Passionate about **Web Development**, **Software Testing**, and **Blockchain**  
+- 🎓 1st-year Master student majoring in **Software Engineering**
+- 💡 Passionate about **Web Development**, **ML/DL/AI**
 - 🌱 Currently learning **Data Analytics**  
-- 💬 Ask me about **UI/UX design**, **React**, or **Front-end development**  
+- 💬 Ask me about **Mathematics**, **Python**, **EDA**
 - 🌍 Based in **Almaty, Kazakhstan**  
-- ⚡ Fun fact: I love **dombyra, fitness, and nature walks**
+- ⚡ Fun fact: I love **dombyra, music, and nature walks**
 
 ---
 
